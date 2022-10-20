@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Users\AASHI\AppData\Local\Programs\PsychoPy\lib\site-packages\psychopy\app\builder\builder.py", line 3238, in OnMouse
+    self.insertRoutine(ii=self.gapMidPoints.index(pt))
+  File "C:\Users\AASHI\AppData\Local\Programs\PsychoPy\lib\site-packages\psychopy\app\builder\builder.py", line 3081, in insertRoutine
+    rtn = self.frame.exp.routines[self.insertingRoutine]
+KeyError: 'test'
